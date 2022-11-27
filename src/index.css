@@ -1,9 +1,10 @@
 body {
   margin: 0;
-  font-family: monospace, 'Helvetica Neue', sans-serif;
+  font-family: 'Saira Extra Condensed', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #868e96;
+  font-size: larger;
 }
 
 .ash {

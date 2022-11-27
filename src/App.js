@@ -1,4 +1,6 @@
 import { About } from './components/About';
+import { Education } from './components/Education';
+import { Experience } from './components/Experience';
 import { Nav } from './components/Nav';
 
 function App() {
@@ -7,6 +9,8 @@ function App() {
       <Nav />
       <div>
         <About />
+        <Experience />
+        <Education />
       </div>
     </>
   );
