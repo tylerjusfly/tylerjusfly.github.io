@@ -1,9 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 import ReactGA from 'react-ga';
 
-export const ProjectImage = ({ projectData }) => {
-  const [data, SetData] = useState(projectData);
-
+export const ProjectImage = ({ data }) => {
   const isMobile = window.innerWidth <= 800;
   const defaultImageStyles = {
     height: !isMobile ? '55vh' : '80vh',

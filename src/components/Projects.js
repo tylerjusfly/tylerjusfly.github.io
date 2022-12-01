@@ -10,7 +10,7 @@ export const Projects = () => {
         <h2 className="mb-5">Projects</h2>
         <div className="row">
           {ProjectsData.map((data, index) => (
-            <ProjectImage key={index} projectData={data} />
+            <ProjectImage key={index} data={data} />
           ))}
         </div>
       </div>
