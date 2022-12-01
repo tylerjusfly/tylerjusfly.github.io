@@ -23,7 +23,7 @@ export const Experience = () => {
             <div className="resume-content mr-auto">
               <h3 className="mb-0 fw-bolder text-black">{data.jobTitle}</h3>
               <div className="subheading mb-3">
-                <a href={data.companyWebsite} target="_blank" className="text-decoration-none">
+                <a href={data.companyWebsite} target="_blank" rel="noreferrer" className="text-decoration-none">
                   {data.company}
                 </a>
               </div>

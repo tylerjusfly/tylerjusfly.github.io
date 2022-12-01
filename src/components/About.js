@@ -1,5 +1,4 @@
 import React from 'react';
-import { AiFillLinkedin } from 'react-icons/ai';
 
 export const About = () => {
   return (
@@ -11,9 +10,9 @@ export const About = () => {
           <h1 className="mb-0 display-3 fw-bolder text-black">Momoh Tyler</h1>
           <h2 className="proffession fw-bolder">Software Developer</h2>
           <div className="subheading mb-5">
-            <a className="map-link text-decoration-none ash">Abuja</a>
+            <span className="map-link text-decoration-none ash">Abuja</span>
             <span className="space-out">·</span>
-            <a className="map-link text-decoration-none ash">Nigeria</a>
+            <span className="map-link text-decoration-none ash">Nigeria</span>
             <span className="space-out">·</span>
             <a href="tel:6134135540" className="text-decoration-none ash">
               (234) 8167037076
