@@ -7,7 +7,7 @@ export const About = () => {
       <div className="container-fluid">
         <div className="my-auto">
           <br />
-          <h1 className="mb-0 display-3 fw-bolder text-black">Momoh Tyler</h1>
+          <h1 className="mb-0 display-3 fw-bolder text-black">Tyler Momoh </h1>
           <h2 className="proffession fw-bolder">Software Developer</h2>
           <div className="subheading mb-5">
             <span className="map-link text-decoration-none ash">Abuja</span>
@@ -36,16 +36,16 @@ export const About = () => {
                 </span>
               </a>
             </li>
-            <li className="list-inline-item">
+            {/* <li className="list-inline-item">
               <a href="https://medium.com/@jesseokeya" target="_blank" rel="noopener noreferrer">
                 <span className="fa-stack fa-lg">
                   <i className="fa fa-circle fa-stack-2x"></i>
                   <i className="fa fa-rss fa-stack-1x fa-inverse"></i>
                 </span>
               </a>
-            </li>
+            </li> */}
             <li className="list-inline-item">
-              <a href="https://www.linkedin.com/in/jesse-okeya-45a38510a/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/momoh-taiwo/" target="_blank" rel="noopener noreferrer">
                 <span className="fa-stack fa-lg">
                   <i className="fa fa-circle fa-stack-2x"></i>
                   <i className="fa fa-linkedin fa-stack-1x fa-inverse"></i>
@@ -53,7 +53,7 @@ export const About = () => {
               </a>
             </li>
             <li className="list-inline-item">
-              <a href="https://github.com/jesseokeya" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/tylerjusfly" target="_blank" rel="noopener noreferrer">
                 <span className="fa-stack fa-lg">
                   <i className="fa fa-circle fa-stack-2x"></i>
                   <i className="fa fa-github fa-stack-1x fa-inverse"></i>
