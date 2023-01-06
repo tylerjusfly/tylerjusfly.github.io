@@ -59,12 +59,12 @@ export const Nav = () => {
 
           <div className="hr-line"></div>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="https://medium.com/@jesseokeya">
+            <a className="nav-link js-scroll-trigger" href="https://tylerjusfly.hashnode.dev/">
               Blog
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link js-scroll-trigger" href="#github">
+            <a className="nav-link js-scroll-trigger" href="https://github.com/tylerjusfly">
               Github
             </a>
           </li>

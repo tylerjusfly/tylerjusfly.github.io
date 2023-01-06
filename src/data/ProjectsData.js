@@ -20,14 +20,14 @@ const ProjectsData = [
     description: 'A simple chat application using material-ui react components together with socket.io',
     url: 'https://github.com/tylerjusfly/azure-devto-hackathon',
   },
-  // {
-  //   title: 'Beatstop',
-  //   Edited: 'September 2016',
-  //   image: './img/beatstop.png',
-  //   description:
-  //     'A platform where Artist can communicate directly with producers, making it convinient for everyone to exchange ideas and which potentially lead to organized collaborations',
-  //   url: 'https://beatstop-dev.herokuapp.com',
-  // },
+  {
+    title: 'Deda Form Update -DIY',
+    Edited: 'November 2022',
+    image: 'https://user-images.githubusercontent.com/53145644/211047478-69f476be-9a5e-44a8-8a14-25840e4edf98.png',
+    description:
+      'A platform where Patients can directly update thier details and next of kin details, we get access to each patient by attaching a token that has patientId, so we can easily identify the patient profile to update',
+    url: 'https://deda-patients.vercel.app/form_elements/jhkhhhk',
+  },
 ];
 
 export { ProjectsData };
