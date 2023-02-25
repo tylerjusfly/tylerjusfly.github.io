@@ -16,8 +16,8 @@ const ProjectsData = [
   {
     title: 'Food Library',
     Edited: 'August 2022',
-    image: 'https://user-images.githubusercontent.com/53145644/168263946-8af5dff9-92f6-444f-92b3-a0a0de96f05d.png',
-    description: 'A simple chat application using material-ui react components together with socket.io',
+    image: './img/foodazure.PNG',
+    description: 'A simple application where you can post food view foods and all',
     url: 'https://github.com/tylerjusfly/azure-devto-hackathon',
   },
   {
@@ -27,6 +27,14 @@ const ProjectsData = [
     description:
       'A platform where Patients can directly update thier details and next of kin details, we get access to each patient by attaching a token that has patientId, so we can easily identify the patient profile to update',
     url: 'https://deda-patients.vercel.app/form_elements/jhkhhhk',
+  },
+  {
+    title: 'JobAthon For HashNode Hackathon',
+    Edited: 'September 2022',
+    image: './img/jobathonfrint.PNG',
+    description:
+      'A platform where Developers can easily register and apply to Get a part time job. the idea for this project was gotten from https://thehub.io/',
+    url: 'https://main.d3lg8mtb40hvzw.amplifyapp.com/',
   },
 ];
 
