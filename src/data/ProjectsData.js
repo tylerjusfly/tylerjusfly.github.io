@@ -11,7 +11,7 @@ const ProjectsData = [
     Edited: 'December 2022',
     image: './img/dedasurvey.png',
     description: 'Collecting data for customer sastisfaction with React',
-    url: 'https://harmonious-pasca-27fd9c.netlify.app/',
+    url: 'https://harmonious-pasca-27fd9c.netlify.app/rrrer',
   },
   {
     title: 'Food Library',
